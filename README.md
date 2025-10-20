@@ -46,7 +46,13 @@ The **interactive Tableau dashboard** provides visual insights into categories, 
 ## 💬 How to Use
 1. Open the Tableau Public link above.  
 2. Interact with filters for category & content rating.  
-3. Explore each visualization to gain detailed insights.  
+3. Explore each visualization to gain detailed insights.
+
+4. 4. ## 📸 Dashboard Previews
+
+### Main Dashboard
+![Main Dashboard]()
+
 
 ---
 
