@@ -38,7 +38,7 @@ The **interactive Tableau dashboard** provides visual insights into categories, 
 ---
 
 ## 📁 Dataset Source
-Dataset: [Google Play Store Apps Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+Dataset: (https://github.com/moneshpondhekar/GooglePlay-Data-Analysis-Dashboard/blob/main/googleplaystore.xlsx)
 
 ---
 
