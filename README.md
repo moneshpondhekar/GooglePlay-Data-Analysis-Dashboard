@@ -51,7 +51,7 @@ The **interactive Tableau dashboard** provides visual insights into categories, 
 4. 4. ## 📸 Dashboard Previews
 
 ### Main Dashboard
-![Main Dashboard]()
+![Main Dashboard](https://github.com/moneshpondhekar/GooglePlay-Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot.png)
 
 
 ---
